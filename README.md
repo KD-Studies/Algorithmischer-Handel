@@ -1,4 +1,4 @@
-Hier ist eine Zusammenfassung des Codes für das README, das auf GitHub verwendet werden kann:
+
 
 ---
 
