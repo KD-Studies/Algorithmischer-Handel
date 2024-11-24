@@ -59,4 +59,3 @@ Wählen Sie zwischen der Durchführung der Simulation oder der Eingabe eines bes
 
 ---
 
-Diese Zusammenfassung für das README gibt einen klaren Überblick über die wichtigsten Funktionen des Projekts, die Nutzung und die Installation, sowie die Struktur des Codes. Sie ist gut geeignet, um anderen Nutzern auf GitHub den Einstieg in das Projekt zu erleichtern.
